@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/VirtualFair/static/css/main.bd6736e6.chunk.css",
-    "main.js": "/VirtualFair/static/js/main.7496a7cb.chunk.js",
-    "main.js.map": "/VirtualFair/static/js/main.7496a7cb.chunk.js.map",
+    "main.js": "/VirtualFair/static/js/main.ac4db73f.chunk.js",
+    "main.js.map": "/VirtualFair/static/js/main.ac4db73f.chunk.js.map",
     "runtime-main.js": "/VirtualFair/static/js/runtime-main.bfc32088.js",
     "runtime-main.js.map": "/VirtualFair/static/js/runtime-main.bfc32088.js.map",
     "static/css/2.306f0768.chunk.css": "/VirtualFair/static/css/2.306f0768.chunk.css",
-    "static/js/2.ba87c511.chunk.js": "/VirtualFair/static/js/2.ba87c511.chunk.js",
-    "static/js/2.ba87c511.chunk.js.map": "/VirtualFair/static/js/2.ba87c511.chunk.js.map",
+    "static/js/2.0d44c8b5.chunk.js": "/VirtualFair/static/js/2.0d44c8b5.chunk.js",
+    "static/js/2.0d44c8b5.chunk.js.map": "/VirtualFair/static/js/2.0d44c8b5.chunk.js.map",
     "static/js/3.655eeb66.chunk.js": "/VirtualFair/static/js/3.655eeb66.chunk.js",
     "static/js/3.655eeb66.chunk.js.map": "/VirtualFair/static/js/3.655eeb66.chunk.js.map",
     "static/js/4.3123df49.chunk.js": "/VirtualFair/static/js/4.3123df49.chunk.js",
@@ -36,11 +36,11 @@
     "54250cad7871fc526883.worker.js.LICENSE.txt": "/VirtualFair/54250cad7871fc526883.worker.js.LICENSE.txt",
     "54250cad7871fc526883.worker.js.map": "/VirtualFair/54250cad7871fc526883.worker.js.map",
     "index.html": "/VirtualFair/index.html",
-    "precache-manifest.9d52db4b70a10dc711c8919c15b52e0b.js": "/VirtualFair/precache-manifest.9d52db4b70a10dc711c8919c15b52e0b.js",
+    "precache-manifest.c8c960214c8a972eb9d6ab3c79b78432.js": "/VirtualFair/precache-manifest.c8c960214c8a972eb9d6ab3c79b78432.js",
     "service-worker.js": "/VirtualFair/service-worker.js",
     "static/css/2.306f0768.chunk.css.map": "/VirtualFair/static/css/2.306f0768.chunk.css.map",
     "static/css/main.bd6736e6.chunk.css.map": "/VirtualFair/static/css/main.bd6736e6.chunk.css.map",
-    "static/js/2.ba87c511.chunk.js.LICENSE.txt": "/VirtualFair/static/js/2.ba87c511.chunk.js.LICENSE.txt",
+    "static/js/2.0d44c8b5.chunk.js.LICENSE.txt": "/VirtualFair/static/js/2.0d44c8b5.chunk.js.LICENSE.txt",
     "static/media/2020UMDrumlineAuditionInfo.pdf": "/VirtualFair/static/media/2020UMDrumlineAuditionInfo.c89e3e1c.pdf",
     "static/media/ADSBrochure.pdf": "/VirtualFair/static/media/ADSBrochure.27228771.pdf",
     "static/media/BaptistCollegiateMinistriesFlyer.pdf": "/VirtualFair/static/media/BaptistCollegiateMinistriesFlyer.1f192a1d.pdf",
@@ -137,8 +137,8 @@
   "entrypoints": [
     "static/js/runtime-main.bfc32088.js",
     "static/css/2.306f0768.chunk.css",
-    "static/js/2.ba87c511.chunk.js",
+    "static/js/2.0d44c8b5.chunk.js",
     "static/css/main.bd6736e6.chunk.css",
-    "static/js/main.7496a7cb.chunk.js"
+    "static/js/main.ac4db73f.chunk.js"
   ]
 }
