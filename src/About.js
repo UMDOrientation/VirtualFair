@@ -5,7 +5,7 @@ import { Typography } from '@material-ui/core';
 function About() {
   return (
     <div>
-      <Typography variant="h1">
+      <Typography variant="h2">
         About
       </Typography>
       <Typography variant="body1">
