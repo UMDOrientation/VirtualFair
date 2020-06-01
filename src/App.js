@@ -3,7 +3,7 @@ import './App.css';
 import Nav from './components/Nav';
 import About from './About';
 import Homepage from './Homepage';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route, Redirect } from 'react-router-dom';
 import { Box } from '@material-ui/core';
 import CatholicTerps from './organizations/CatholicTerps/CatholicTerps';
 import ChristianChaplaincies from './organizations/ChristianChaplaincies/ChristianChaplaincies';
@@ -33,6 +33,7 @@ function App() {
       <div className="App">
         <Nav />
         <Box px={8}>
+        <Redirect exact from="/VirtualFair" to="/" />
         <Route path="/" exact component={Homepage} />
         <Route path="/about" component={About} />
         <Route path="/organizations/CatholicTerps" component={CatholicTerps} />
