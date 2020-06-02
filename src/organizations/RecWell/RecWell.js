@@ -1,6 +1,7 @@
 import React from 'react';
 import { Grid } from '@material-ui/core';
 import PDFViewer from '../../components/PDFViewer';
+import VideoPlayer from '../../components/VideoPlayer';
 
 function RecWell() {
   return (
@@ -8,6 +9,7 @@ function RecWell() {
         <Grid container justify="center" spacing={2}>
             <Grid item xs={12} md={10} lg={6}>
                 <h1>RecWell</h1>
+                <VideoPlayer url="https://youtu.be/szrI7KMGUMw" />
                 <PDFViewer document={require('./ProgramAreaPrintPieces_AP.pdf')}/>
                 <PDFViewer document={require('./ProgramAreaPrintPieces_ClubSports.pdf')}/>
                 <PDFViewer document={require('./ProgramAreaPrintPieces_Fitness.pdf')}/>

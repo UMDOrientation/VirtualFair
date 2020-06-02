@@ -19,12 +19,14 @@ import MICA from './organizations/MICA/MICA';
 import RecWell from './organizations/RecWell/RecWell';
 import SORC from './organizations/SORC/SORC';
 import SUCCEEDSClinic from './organizations/SUCCEEDSClinic/SUCCEEDSClinic';
-import StampStudentUnion from './organizations/StampStudentUnion/StampStudentUnion';
 import TheDiamondback from './organizations/TheDiamondback/TheDiamondback';
 import TransportationServices from './organizations/TransportationServices/TransportationServices';
 import UMPD from './organizations/UMPD/UMPD';
 import UniversityLibraries from './organizations/UniversityLibraries/UniversityLibraries';
 import EducationAbroad from './organizations/EducationAbroad/EducationAbroad';
+import MemorialChapel from './organizations/MemorialChapel/MemorialChapel';
+import STAMP from './organizations/STAMP/STAMP';
+import Chabad from './organizations/Chabad/Chabad';
 
 function App() {
 
@@ -37,6 +39,7 @@ function App() {
         <Route path="/" exact component={Homepage} />
         <Route path="/about" component={About} />
         <Route path="/organizations/CatholicTerps" component={CatholicTerps} />
+        <Route path="/organizations/Chabad" component={Chabad} />
         <Route path="/organizations/ChristianChaplaincies" component={ChristianChaplaincies} />
         <Route path="/organizations/CounselingCenter" component={CounselingCenter} />
         <Route path="/organizations/DoGoodInstitute" component={DoGoodInstitute} />
@@ -47,11 +50,11 @@ function App() {
         <Route path="/organizations/LCSL" component={LCSL} />
         <Route path="/organizations/MarylandAthletics" component={MarylandAthletics} />
         <Route path="/organizations/MarylandBands" component={MarylandBands} />
-        {/* <Route path="/organizations/MemorialChapel" component={} /> */}
+        <Route path="/organizations/MemorialChapel" component={MemorialChapel} />
         <Route path="/organizations/MICA" component={MICA} />
         <Route path="/organizations/RecWell" component={RecWell} />
         <Route path="/organizations/SORC" component={SORC} />
-        <Route path="/organizations/StampStudentUnion" component={StampStudentUnion} />
+        <Route path="/organizations/STAMP" component={STAMP} />
         <Route path="/organizations/SUCCEEDSClinic" component={SUCCEEDSClinic} />
         <Route path="/organizations/TheDiamondback" component={TheDiamondback} />
         <Route path="/organizations/TransportationServices" component={TransportationServices} />

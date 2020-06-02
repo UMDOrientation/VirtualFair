@@ -57,7 +57,7 @@ function RawPDF({ document }) {
                     >
                     Next
                     </Button>
-                    <Divider style={{ margin: "0.5rem 0" }}/>
+                    <Divider style={{ marginTop: "0.5rem" }}/>
                 </div>
             }
             
@@ -70,7 +70,7 @@ function PDFViewer ({ document }){
         <div>
             <Card className="card">
                 <RawPDF document={document}/>
-                <Button variant="contained" href={document} target="_blank" startIcon={<GetAppIcon/>}>Download PDF</Button>
+                <Button variant="contained" href={document} target="_blank" startIcon={<GetAppIcon/>} style={{ marginTop:"0.5rem" }}>Download PDF</Button>
             </Card>
         </div>
     );
