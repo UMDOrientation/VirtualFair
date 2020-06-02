@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/VirtualFair/static/css/main.bd6736e6.chunk.css",
-    "main.js": "/VirtualFair/static/js/main.97f37837.chunk.js",
-    "main.js.map": "/VirtualFair/static/js/main.97f37837.chunk.js.map",
+    "main.js": "/VirtualFair/static/js/main.5dd01deb.chunk.js",
+    "main.js.map": "/VirtualFair/static/js/main.5dd01deb.chunk.js.map",
     "runtime-main.js": "/VirtualFair/static/js/runtime-main.3557927c.js",
     "runtime-main.js.map": "/VirtualFair/static/js/runtime-main.3557927c.js.map",
     "static/css/2.306f0768.chunk.css": "/VirtualFair/static/css/2.306f0768.chunk.css",
@@ -36,7 +36,7 @@
     "54250cad7871fc526883.worker.js.LICENSE.txt": "/VirtualFair/54250cad7871fc526883.worker.js.LICENSE.txt",
     "54250cad7871fc526883.worker.js.map": "/VirtualFair/54250cad7871fc526883.worker.js.map",
     "index.html": "/VirtualFair/index.html",
-    "precache-manifest.0cf7fed9959d7ce253d78f12bea203ee.js": "/VirtualFair/precache-manifest.0cf7fed9959d7ce253d78f12bea203ee.js",
+    "precache-manifest.76d0ba968c0330c527ea43ca3d2d502b.js": "/VirtualFair/precache-manifest.76d0ba968c0330c527ea43ca3d2d502b.js",
     "service-worker.js": "/VirtualFair/service-worker.js",
     "static/css/2.306f0768.chunk.css.map": "/VirtualFair/static/css/2.306f0768.chunk.css.map",
     "static/css/main.bd6736e6.chunk.css.map": "/VirtualFair/static/css/main.bd6736e6.chunk.css.map",
@@ -155,6 +155,6 @@
     "static/css/2.306f0768.chunk.css",
     "static/js/2.082962be.chunk.js",
     "static/css/main.bd6736e6.chunk.css",
-    "static/js/main.97f37837.chunk.js"
+    "static/js/main.5dd01deb.chunk.js"
   ]
 }
