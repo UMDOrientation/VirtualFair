@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/VirtualFair/static/css/main.03c5be33.chunk.css",
-    "main.js": "/VirtualFair/static/js/main.9766da4f.chunk.js",
-    "main.js.map": "/VirtualFair/static/js/main.9766da4f.chunk.js.map",
+    "main.js": "/VirtualFair/static/js/main.f66e2d2d.chunk.js",
+    "main.js.map": "/VirtualFair/static/js/main.f66e2d2d.chunk.js.map",
     "runtime-main.js": "/VirtualFair/static/js/runtime-main.82f61122.js",
     "runtime-main.js.map": "/VirtualFair/static/js/runtime-main.82f61122.js.map",
     "static/css/2.306f0768.chunk.css": "/VirtualFair/static/css/2.306f0768.chunk.css",
@@ -36,7 +36,7 @@
     "54250cad7871fc526883.worker.js.LICENSE.txt": "/VirtualFair/54250cad7871fc526883.worker.js.LICENSE.txt",
     "54250cad7871fc526883.worker.js.map": "/VirtualFair/54250cad7871fc526883.worker.js.map",
     "index.html": "/VirtualFair/index.html",
-    "precache-manifest.8c7baf7b0ffd4784f847d460c6a4326d.js": "/VirtualFair/precache-manifest.8c7baf7b0ffd4784f847d460c6a4326d.js",
+    "precache-manifest.4fd229467d17569a685b85327bdc62d2.js": "/VirtualFair/precache-manifest.4fd229467d17569a685b85327bdc62d2.js",
     "service-worker.js": "/VirtualFair/service-worker.js",
     "static/css/2.306f0768.chunk.css.map": "/VirtualFair/static/css/2.306f0768.chunk.css.map",
     "static/css/main.03c5be33.chunk.css.map": "/VirtualFair/static/css/main.03c5be33.chunk.css.map",
@@ -103,8 +103,8 @@
     "static/media/MethodistFlyer.pdf": "/VirtualFair/static/media/MethodistFlyer.39f0d586.pdf",
     "static/media/MuslimChaplaincyFlyer.pdf": "/VirtualFair/static/media/MuslimChaplaincyFlyer.f4ccdc27.pdf",
     "static/media/NewStudentOrientationGuide.pdf": "/VirtualFair/static/media/NewStudentOrientationGuide.8615966b.pdf",
-    "static/media/Orientation_summer_2020_LCSL_header.png": "/VirtualFair/static/media/Orientation_summer_2020_LCSL_header.91d0fe00.png",
-    "static/media/Orientation_summer_2020_MICA_header.png": "/VirtualFair/static/media/Orientation_summer_2020_MICA_header.4fca936b.png",
+    "static/media/Orientation_summer_2020_LCSL_header.jpg": "/VirtualFair/static/media/Orientation_summer_2020_LCSL_header.b5360a8a.jpg",
+    "static/media/Orientation_summer_2020_MICA_header.jpg": "/VirtualFair/static/media/Orientation_summer_2020_MICA_header.6ee59fd8.jpg",
     "static/media/PostCard.pdf": "/VirtualFair/static/media/PostCard.05824f9e.pdf",
     "static/media/PreMedPrerequisites.pdf": "/VirtualFair/static/media/PreMedPrerequisites.6a6cd015.pdf",
     "static/media/PreOT.pdf": "/VirtualFair/static/media/PreOT.798dacb4.pdf",
@@ -169,6 +169,6 @@
     "static/css/2.306f0768.chunk.css",
     "static/js/2.98cda653.chunk.js",
     "static/css/main.03c5be33.chunk.css",
-    "static/js/main.9766da4f.chunk.js"
+    "static/js/main.f66e2d2d.chunk.js"
   ]
 }

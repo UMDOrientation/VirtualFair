@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VirtualFair/54250cad7871fc526883.worker.js.LICENSE.txt"
   },
   {
-    "revision": "d78d380b80747d4991900f1020d76605",
+    "revision": "dc3076d0d43a9deb58a944777cea4fe1",
     "url": "/VirtualFair/index.html"
   },
   {
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VirtualFair/static/css/2.306f0768.chunk.css"
   },
   {
-    "revision": "0b498bf9be89f9848727",
+    "revision": "1a76477bf6af5ae5a3ea",
     "url": "/VirtualFair/static/css/main.03c5be33.chunk.css"
   },
   {
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VirtualFair/static/js/9.fd403fac.chunk.js"
   },
   {
-    "revision": "0b498bf9be89f9848727",
-    "url": "/VirtualFair/static/js/main.9766da4f.chunk.js"
+    "revision": "1a76477bf6af5ae5a3ea",
+    "url": "/VirtualFair/static/js/main.f66e2d2d.chunk.js"
   },
   {
     "revision": "8a73f4aafde80e0c274d",
@@ -332,12 +332,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VirtualFair/static/media/NewStudentOrientationGuide.8615966b.pdf"
   },
   {
-    "revision": "91d0fe00648999e019fe211177146b22",
-    "url": "/VirtualFair/static/media/Orientation_summer_2020_LCSL_header.91d0fe00.png"
+    "revision": "b5360a8ae025bfda00472b3894b67da3",
+    "url": "/VirtualFair/static/media/Orientation_summer_2020_LCSL_header.b5360a8a.jpg"
   },
   {
-    "revision": "4fca936b2215b3388b7fc458b5770816",
-    "url": "/VirtualFair/static/media/Orientation_summer_2020_MICA_header.4fca936b.png"
+    "revision": "6ee59fd8de773170ba0d7d343f82ba68",
+    "url": "/VirtualFair/static/media/Orientation_summer_2020_MICA_header.6ee59fd8.jpg"
   },
   {
     "revision": "05824f9e0ce66fd5a40e0af559ea89e7",
