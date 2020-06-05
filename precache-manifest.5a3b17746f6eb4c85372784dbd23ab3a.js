@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VirtualFair/54250cad7871fc526883.worker.js.LICENSE.txt"
   },
   {
-    "revision": "9590b49e24aecf26756d5a5fba21e1a2",
+    "revision": "b0c84666972b5430b7e853d932392666",
     "url": "/VirtualFair/index.html"
   },
   {
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VirtualFair/static/css/2.306f0768.chunk.css"
   },
   {
-    "revision": "f1c285a18c9e4ace6936",
+    "revision": "b0dab6c4895fa3cd7a3c",
     "url": "/VirtualFair/static/css/main.03c5be33.chunk.css"
   },
   {
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VirtualFair/static/js/9.18a128d4.chunk.js"
   },
   {
-    "revision": "f1c285a18c9e4ace6936",
-    "url": "/VirtualFair/static/js/main.e247b7b8.chunk.js"
+    "revision": "b0dab6c4895fa3cd7a3c",
+    "url": "/VirtualFair/static/js/main.324903d8.chunk.js"
   },
   {
     "revision": "6ee8ec40c0ceceef1c59",
