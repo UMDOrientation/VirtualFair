@@ -35,6 +35,11 @@ function Nav() {
                     </Link>
                 </li>
                 <li className="nav-items">
+                    <Link to="/LiveSessions">
+                    <Typography variant="h6">Live Sessions</Typography>
+                    </Link>
+                </li>
+                <li className="nav-items">
                     <Link to="/">
                     <Typography variant="h6">Home</Typography>
                     </Link>

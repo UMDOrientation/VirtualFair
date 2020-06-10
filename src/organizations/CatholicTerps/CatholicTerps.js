@@ -15,7 +15,7 @@ function CatholicTerps() {
                 <VideoPlayer url="https://youtu.be/upWLB2xT0mc" />
                 <PDFViewer document={CatholicTerpsPostcard}/>
                 <Image source={CatholicTerpsFreshmanRetreat2020} altText="Catholic Terps Freshman Retreat 2020"/>
-                <Button variant="contained" color="primary" href="https://docs.google.com/forms/d/e/1FAIpQLSfEFaa9oOoW6GjENaQRcYCdMuSQvPKubp3gN1cxNshM3UeQBQ/viewform" target="_blank">I want to receive more information.</Button>
+                <Button variant="contained" color="primary" href="https://docs.google.com/forms/d/e/1FAIpQLSfEFaa9oOoW6GjENaQRcYCdMuSQvPKubp3gN1cxNshM3UeQBQ/viewform" target="_blank" size="large">I want to receive more information.</Button>
             </Grid>
         </Grid>
     </div>

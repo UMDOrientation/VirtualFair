@@ -11,7 +11,7 @@ function DoGoodInstitute() {
                 <h1>Do Good Institute</h1>
                 <VideoPlayer url="https://youtu.be/xfKurBJLB8w"/>
                 <PDFViewer document={require("./DGINewStudentGuide.pdf")}/>
-                <Button variant="contained" color="primary" href="http://eepurl.com/c9IRPz" target="_blank">Sign up for our newsletter!</Button>
+                <Button variant="contained" color="primary" href="http://eepurl.com/c9IRPz" target="_blank" size="large">Sign up for our newsletter!</Button>
             </Grid>
         </Grid>
     </div>

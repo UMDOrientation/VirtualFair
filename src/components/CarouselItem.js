@@ -6,7 +6,11 @@ function CarouselItem({ source, href, caption }) {
     
     return (
         <div>
-            <img src={source != null ? source : require("../organizations/placeholder.jpg")} alt={caption} className="carousel-image"/>
+            <img 
+                src={source != null ? source : require("../organizations/placeholder.jpg")} 
+                alt={caption} 
+                className="carousel-image" 
+            />
             <Link to={href}>
                 <p className="legend">{caption}</p>
             </Link>

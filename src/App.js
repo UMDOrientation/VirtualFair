@@ -27,6 +27,9 @@ import EducationAbroad from './organizations/EducationAbroad/EducationAbroad';
 import MemorialChapel from './organizations/MemorialChapel/MemorialChapel';
 import STAMP from './organizations/STAMP/STAMP';
 import Chabad from './organizations/Chabad/Chabad';
+import MuslimChaplaincy from './organizations/MuslimChaplaincy/MuslimChaplaincy';
+import ArmyROTC from './organizations/ArmyROTC/ArmyROTC';
+import LiveSessions from './LiveSessions';
 
 function App() {
 
@@ -38,6 +41,8 @@ function App() {
         <Redirect exact from="/VirtualFair" to="/" />
         <Route path="/" exact component={Homepage} />
         <Route path="/about" component={About} />
+        <Route path="/livesessions" component={LiveSessions} />
+        <Route path="/organizations/ArmyROTC" component={ArmyROTC} />
         <Route path="/organizations/CatholicTerps" component={CatholicTerps} />
         <Route path="/organizations/Chabad" component={Chabad} />
         <Route path="/organizations/ChristianChaplaincies" component={ChristianChaplaincies} />
@@ -52,6 +57,7 @@ function App() {
         <Route path="/organizations/MarylandBands" component={MarylandBands} />
         <Route path="/organizations/MemorialChapel" component={MemorialChapel} />
         <Route path="/organizations/MICA" component={MICA} />
+        <Route path="/organizations/MuslimChaplaincy" component={MuslimChaplaincy} />
         <Route path="/organizations/RecWell" component={RecWell} />
         <Route path="/organizations/SORC" component={SORC} />
         <Route path="/organizations/STAMP" component={STAMP} />

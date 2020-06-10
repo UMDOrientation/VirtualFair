@@ -1,6 +1,6 @@
 import React from 'react';
 import PDFViewer from '../../components/PDFViewer';
-import { Grid, Button } from '@material-ui/core';
+import { Grid } from '@material-ui/core';
 
 function Hillel() {
   return (

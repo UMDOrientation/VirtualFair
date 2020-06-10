@@ -11,7 +11,7 @@ function EquityCenter() {
                 <PDFViewer document={require("./PostCard.pdf")}/>
                 <PDFViewer document={require("./StickersAndPronounsMatterCard.pdf")}/>
                 <PDFViewer document={require("./LGBTButtons.pdf")}/>
-                <Button variant="contained" color="primary" href="https://forms.gle/BBaDpmPcCRbik6ks6" target="_blank">Sign up for our newsletter!</Button>
+                <Button variant="contained" color="primary" href="https://forms.gle/BBaDpmPcCRbik6ks6" target="_blank" size="large">Sign up for our newsletter!</Button>
             </Grid>
         </Grid>
     </div>
