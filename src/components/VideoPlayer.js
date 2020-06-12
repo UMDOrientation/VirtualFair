@@ -7,7 +7,7 @@ function VideoPlayer({ url }) {
     return (
         <div>
             <Card className="card centered">
-                <ReactPlayer url={url}/>
+                <ReactPlayer url={url} controls={true}/>
             </Card>
         </div>
     );
