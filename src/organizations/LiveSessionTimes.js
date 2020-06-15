@@ -88,7 +88,7 @@ const LiveSessionTimes = [
         desc: "Hear from other Terps and Maryland Hillel staff about Jewish life on campus and how to get involved.",
         sessions: [
             {
-                dateTime: "Wednesdays at 2:00pm EDT",
+                dateTime: "Mondays at 2:00pm EDT",
                 registerLink: "https://hillel.zoom.us/meeting/register/tJcsd-2hrDwqHddYxKO7MY6x4AJivrierX_E"
             }
         ]
