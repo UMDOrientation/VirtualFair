@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/VirtualFair/static/css/main.03c5be33.chunk.css",
-    "main.js": "/VirtualFair/static/js/main.c592a70e.chunk.js",
-    "main.js.map": "/VirtualFair/static/js/main.c592a70e.chunk.js.map",
+    "main.js": "/VirtualFair/static/js/main.5658824e.chunk.js",
+    "main.js.map": "/VirtualFair/static/js/main.5658824e.chunk.js.map",
     "runtime-main.js": "/VirtualFair/static/js/runtime-main.5f99d752.js",
     "runtime-main.js.map": "/VirtualFair/static/js/runtime-main.5f99d752.js.map",
     "static/css/2.306f0768.chunk.css": "/VirtualFair/static/css/2.306f0768.chunk.css",
@@ -36,7 +36,7 @@
     "54250cad7871fc526883.worker.js.LICENSE.txt": "/VirtualFair/54250cad7871fc526883.worker.js.LICENSE.txt",
     "54250cad7871fc526883.worker.js.map": "/VirtualFair/54250cad7871fc526883.worker.js.map",
     "index.html": "/VirtualFair/index.html",
-    "precache-manifest.665facbf170a2b030b6ab410fc1b346c.js": "/VirtualFair/precache-manifest.665facbf170a2b030b6ab410fc1b346c.js",
+    "precache-manifest.030060e14c4b6d6ae6a2fe0f1f2aae48.js": "/VirtualFair/precache-manifest.030060e14c4b6d6ae6a2fe0f1f2aae48.js",
     "service-worker.js": "/VirtualFair/service-worker.js",
     "static/css/2.306f0768.chunk.css.map": "/VirtualFair/static/css/2.306f0768.chunk.css.map",
     "static/css/main.03c5be33.chunk.css.map": "/VirtualFair/static/css/main.03c5be33.chunk.css.map",
@@ -58,7 +58,7 @@
     "static/media/CounselingServiceBrochure.pdf": "/VirtualFair/static/media/CounselingServiceBrochure.43a836d5.pdf",
     "static/media/CoverPhoto.png": "/VirtualFair/static/media/CoverPhoto.c2681eb7.png",
     "static/media/DBK.png": "/VirtualFair/static/media/DBK.626747d5.png",
-    "static/media/DGINewStudentGuide.pdf": "/VirtualFair/static/media/DGINewStudentGuide.cf696dbc.pdf",
+    "static/media/DGINewStudentGuide.pdf": "/VirtualFair/static/media/DGINewStudentGuide.6dd30193.pdf",
     "static/media/DOTS1.pdf": "/VirtualFair/static/media/DOTS1.e6c53497.pdf",
     "static/media/DOTS2.pdf": "/VirtualFair/static/media/DOTS2.e451e377.pdf",
     "static/media/DOTS3.pdf": "/VirtualFair/static/media/DOTS3.13e5b1c0.pdf",
@@ -176,6 +176,6 @@
     "static/css/2.306f0768.chunk.css",
     "static/js/2.535e4d28.chunk.js",
     "static/css/main.03c5be33.chunk.css",
-    "static/js/main.c592a70e.chunk.js"
+    "static/js/main.5658824e.chunk.js"
   ]
 }
