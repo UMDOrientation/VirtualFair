@@ -14,10 +14,10 @@ nav {
 }
 
 .nav-links {
-  width: 20%;
+  /* width: 20%;
   display: flex;
   justify-content: space-around;
-  align-items: center;
+  align-items: center; */
   list-style: none;
 }
 
@@ -55,6 +55,10 @@ nav li.nav-items a:hover:not(.active) {
 
 .inner-nav {
   margin: 0 1rem;
+}
+
+.menu-button {
+  padding: 14px 0px;
 }
 
 @media screen and (min-width: 600px) {

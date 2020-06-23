@@ -12,8 +12,7 @@ function LiveSessions() {
                     Live Sessions
                 </Typography>
                 <Grid container justify="center" spacing={2}>
-                    {LiveSessionTimes.map((orgSession) => {
-                        console.log(orgSession);
+                    {LiveSessionTimes.map((orgSession, index) => {
                         return (
                             <Grid item xs={12}>
                                 <LiveSessionCard key={orgSession.name} org={orgSession.name} sessions={orgSession.sessions} description={orgSession.desc}/>
