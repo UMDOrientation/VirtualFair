@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VirtualFair/54250cad7871fc526883.worker.js.LICENSE.txt"
   },
   {
-    "revision": "f9e8bed2e51bcea575d9e45a78092570",
+    "revision": "6823ead0092f084d8126ef8612ba6c69",
     "url": "/VirtualFair/index.html"
   },
   {
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VirtualFair/static/css/2.306f0768.chunk.css"
   },
   {
-    "revision": "75cedcef940d3e6f699c",
+    "revision": "21fc9f97ecf2dd75193e",
     "url": "/VirtualFair/static/css/main.a4666f2c.chunk.css"
   },
   {
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VirtualFair/static/js/9.f293884f.chunk.js"
   },
   {
-    "revision": "75cedcef940d3e6f699c",
-    "url": "/VirtualFair/static/js/main.9a9c262b.chunk.js"
+    "revision": "21fc9f97ecf2dd75193e",
+    "url": "/VirtualFair/static/js/main.6311cfbc.chunk.js"
   },
   {
     "revision": "11f11dcb0a9ad049e696",
@@ -106,6 +106,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1f192a1defe69c50009e1d3e3ce766de",
     "url": "/VirtualFair/static/media/BaptistCollegiateMinistriesFlyer.1f192a1d.pdf"
+  },
+  {
+    "revision": "f1c2172d7a60958c03132eddb4aad7b0",
+    "url": "/VirtualFair/static/media/BikeUMDFlyer.f1c2172d.pdf"
   },
   {
     "revision": "e2d4f7fa18cadf9123d34cbbae2ee107",
@@ -170,10 +174,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9bff633061aa10c6f6d4d2517ba96a38",
     "url": "/VirtualFair/static/media/DOTS4.9bff6330.pdf"
-  },
-  {
-    "revision": "a7e5514b8826db9d900f1489c93f3ff7",
-    "url": "/VirtualFair/static/media/DOTS5.a7e5514b.pdf"
   },
   {
     "revision": "aa1490232917c6e6253b87ee19f61229",
