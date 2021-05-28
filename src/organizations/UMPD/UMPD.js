@@ -2,6 +2,7 @@ import React from 'react';
 import { Grid } from '@material-ui/core';
 import PDFViewer from '../../components/PDFViewer';
 import Image from '../../components/Image';
+import VideoPlayer from '../../components/VideoPlayer';
 
 function UMPD() {
   return (
@@ -9,6 +10,7 @@ function UMPD() {
         <Grid container justify="center" spacing={2}>
             <Grid item xs={12} md={10} lg={6}>
                 <h1>University of Maryland Police Department (UMPD)</h1>
+                <VideoPlayer url="https://www.youtube.com/watch?v=pkmHUKZpbhI"/>
                 <Image source={require('./UMPDContactMagnet.png')} altText="UMPD Contact Information"/>
                 <Image source={require('./UMDAlert.jpg')} altText="UMD Alerts"/>
                 <Image source={require('./WalkBikeDriveSmart.jpg')} altText="Walk Bike Drive Smart"/>
