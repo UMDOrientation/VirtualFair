@@ -8,12 +8,12 @@ function TransportationServices() {
         <Grid container justify="center" spacing={2}>
             <Grid item xs={12} md={10} lg={6}>
                 <h1>Transportation Services</h1>
-                <PDFViewer document={require('./DOTS1.pdf')}/>
-                <PDFViewer document={require('./DOTS2.pdf')}/>
-                <PDFViewer document={require('./DOTS3.pdf')}/>
-                <PDFViewer document={require('./DOTS4.pdf')}/>
-                <PDFViewer document={require('./DOTS5.pdf')}/>
-                <PDFViewer document={require('./DOTS6.pdf')}/>
+                <PDFViewer document={require('./DOTS/DOTS1.pdf')}/>
+                <PDFViewer document={require('./DOTS/DOTS2.pdf')}/>
+                <PDFViewer document={require('./DOTS/DOTS3.pdf')}/>
+                <PDFViewer document={require('./DOTS/DOTS4.pdf')}/>
+                <PDFViewer document={require('./DOTS/DOTS5.pdf')}/>
+
             </Grid>
         </Grid>
     </div>

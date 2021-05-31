@@ -11,6 +11,7 @@ function UMPD() {
             <Grid item xs={12} md={10} lg={6}>
                 <h1>University of Maryland Police Department (UMPD)</h1>
                 <VideoPlayer url="https://www.youtube.com/watch?v=pkmHUKZpbhI"/>
+                <VideoPlayer url="https://www.youtube.com/watch?v=o5bDiBxC3pk"/>
                 <Image source={require('./UMPDContactMagnet.png')} altText="UMPD Contact Information"/>
                 <Image source={require('./UMDAlert.jpg')} altText="UMD Alerts"/>
                 <Image source={require('./WalkBikeDriveSmart.jpg')} altText="Walk Bike Drive Smart"/>
@@ -43,6 +44,8 @@ function UMPD() {
                         <Image source={require('./UMDSafety9.jpg')} altText="UMD Safety Tip 9"/>
                     </Grid>
                 </Grid>
+                <Image source={require('./UMPD1.jpg')} altText="Walk Bike Drive Smart"/>
+                <Image source={require('./UMPD2.jpg')} altText="Walk Bike Drive Smart"/>
             </Grid>
         </Grid>
     </div>

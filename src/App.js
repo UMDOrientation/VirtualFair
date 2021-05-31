@@ -30,6 +30,8 @@ import Chabad from './organizations/Chabad/Chabad';
 import MuslimChaplaincy from './organizations/MuslimChaplaincy/MuslimChaplaincy';
 import ArmyROTC from './organizations/ArmyROTC/ArmyROTC';
 import LiveSessions from './LiveSessions';
+import Nyumburu from './organizations/NyumburuCulturalCenter/Nyumburu';
+import Signa from './organizations/Signa/signa';
 
 function App() {
 
@@ -58,7 +60,9 @@ function App() {
         <Route path="/organizations/MemorialChapel" component={MemorialChapel} />
         <Route path="/organizations/MICA" component={MICA} />
         <Route path="/organizations/MuslimChaplaincy" component={MuslimChaplaincy} />
+        <Route path="/organizations/NyumburuCulturalCenter" component={Nyumburu} />
         <Route path="/organizations/RecWell" component={RecWell} />
+        <Route path="/organizations/Signa" component={Signa} />
         <Route path="/organizations/SORC" component={SORC} />
         <Route path="/organizations/STAMP" component={STAMP} />
         <Route path="/organizations/SUCCEEDSClinic" component={SUCCEEDSClinic} />

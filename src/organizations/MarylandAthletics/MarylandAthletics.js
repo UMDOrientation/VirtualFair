@@ -9,7 +9,7 @@ function MarylandAthletics() {
             <Grid item xs={12} md={10} lg={6}>
                 <h1>Maryland Athletics</h1>
                 <Image source={require("./GameDayFlyer.jpg")} altText="Game Day Flyer" />
-                <Image source={require("./StudentTickets2020.jpg")} altText="Student Tickets 2020" />
+                <Image source={require("./StudentTicketInfo21.jpg")} altText="Student Tickets 2020" />
             </Grid>
         </Grid>
     </div>

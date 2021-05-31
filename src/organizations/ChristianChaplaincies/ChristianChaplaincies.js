@@ -12,7 +12,8 @@ function ChristianChaplaincies() {
                 <PDFViewer document={require("./BaptistCollegiateMinistriesFlyer.pdf")}/>
                 <Image source={require("./ChristianScienceOrientationFlyer.png")} altText="Christian Science Orientation Flyer"/>
                 <Image source={require("./EpiscopalTerpsFlyer.png")} altText="Episcopal Terps Flyer"/>
-                <PDFViewer document={require("./MethodistFlyer.pdf")}/>
+                <Image source={require("./Hub1.png")} altText="Episcopal Terps Flyer"/>
+                <Image source={require("./Hub2.png")} altText="Episcopal Terps Flyer"/>
                 <PDFViewer document={require("./UCM-L3Flyer.pdf")}/>
             </Grid>
         </Grid>
