@@ -10,7 +10,7 @@ function SUCCEEDSClinic() {
             <Grid item xs={12} md={10} lg={6}>
                 <h1>SUCCEEDS Clinic</h1>
                 <VideoPlayer url="https://www.youtube.com/watch?v=MVgzaPW2DsU&t=3s"/>
-                <PDFViewer document={require('./brochure.pdf')}/>
+              
             </Grid>
         </Grid>
     </div>
