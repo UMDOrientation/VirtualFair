@@ -13,7 +13,9 @@ function TransportationServices() {
                 <PDFViewer document={require('./DOTS/DOTS3.pdf')}/>
                 <PDFViewer document={require('./DOTS/DOTS4.pdf')}/>
                 <PDFViewer document={require('./DOTS/DOTS5.pdf')}/>
+                <PDFViewer document={require('./DOTS/6_Summer21_Parking.pdf')}/>
 
+                <a href = "https://drive.google.com/file/d/1soT3cK0QYqbCbCxnVyVvYd8pdoGhL4ga/view?usp=sharing">Click here to view the UMD Bike Flyer!</a>
             </Grid>
         </Grid>
     </div>
